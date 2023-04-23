@@ -1,9 +1,8 @@
-======================
 # Collabrative Project on Printf
 
-Printf: ![Kingsley and Kofoworola](/https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png "Printf")
 
-
+Kingsley and Kofoworola Printf:
+![Alt](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png "Title")
 
 ## General
 - Allowed editors: vi, vim, emacs
@@ -24,5 +23,6 @@ Printf: ![Kingsley and Kofoworola](/https://s3.amazonaws.com/intranet-projects-f
 
 ## Contributors
 * Koroworola Mauton	
-* Kingsley Chika CHUKWU	
+* [Kingsley Chika CHUKWU](https://github.com/KingVik-Planet "Kingsley Chika CHUKWU")
 * Date:23/04/2023		
+
