@@ -30,7 +30,7 @@ Authorized functions and macros
 ~~~~
 
 ## Compilation
-Code was compiled this way: **gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c**
+Code was compiled this way: gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 
 ## Contributors
 * [Koroworola Mauton](https://github.com/Kofoworola001 "Kofoworola001")
