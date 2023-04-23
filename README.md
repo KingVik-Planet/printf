@@ -22,7 +22,7 @@ Kingsley and Kofoworola Printf:
 - There should be one project repository per group. The other members do not fork or clone the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
 
 ## Contributors
-* Koroworola Mauton	
+* [Koroworola Mauton](https://github.com/Kofoworola001 "Kofoworola001")
 * [Kingsley Chika CHUKWU](https://github.com/KingVik-Planet "Kingsley Chika CHUKWU")
 * Date:23/04/2023		
 
