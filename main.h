@@ -36,7 +36,7 @@
  * struct fmt _Struct op
 =======
  * struct fmt - Struct op
- * by Joseph and Ciny
+ * by kingsley and kofoworola
  *
  * @fmt: The format.
  * @fn: The function associated.
